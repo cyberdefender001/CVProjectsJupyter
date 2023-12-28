@@ -1,6 +1,6 @@
-opencv-python
-mediapipe
-numpy
+opencv-python             4.5.5.64
+mediapipe                 0.9.1.0
+numpy                     1.24.3
 
 absl-py                   2.0.0
 anyio                     3.5.0
